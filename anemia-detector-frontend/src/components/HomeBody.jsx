@@ -53,7 +53,7 @@ const HomeBody = () => {
               <Button
                 variant="outline"
                 size="lg"
-                className="text-lg px-8 bg-transparent hover:bg-[#079eff] hover:text-white cursor-pointer"
+                className="w-full sm:w-auto text-lg px-8 bg-transparent hover:bg-[#079eff] hover:text-white cursor-pointer"
               >
                 <BookOpen className="w-5 h-5 mr-2" />
                 Learn More
