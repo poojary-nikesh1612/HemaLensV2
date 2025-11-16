@@ -1,0 +1,19 @@
+# Environment variables - VERY IMPORTANT
+.env
+.env*.local
+
+# Python / Flask Backend
+__pycache__/
+*.pyc
+# Add your virtual environment folder. It's likely inside your backend folder.
+backend/venv/
+
+# Node.js / Next.js Frontend
+node_modules/
+.next/
+build/
+*.log
+
+# Common OS files
+.DS_Store
+Thumbs.db
